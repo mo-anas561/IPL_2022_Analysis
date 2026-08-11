@@ -59,28 +59,28 @@ Before jumping into analysis, I checked the shape of the dataset, the data types
 
 ## 🔍 What I Did, Step by Step
 
-**1. Basic Data Exploration**
+**1. Basic Data Exploration**:
 Loaded the dataset, checked the first few rows, looked at the shape, column names, data types, and confirmed there were no missing values.
 
-**2. Team Performance**
+**2. Team Performance**:
 Worked out matches played, matches won, and win percentage for each team to see who dominated the season.
 
-**3. Toss Analysis**
+**3. Toss Analysis**:
 Looked at which teams won the most tosses, what they chose to do after winning (bat/field), and whether winning the toss actually translated into winning the match.
 
-**4. Batting Performance**
+**4. Batting Performance**:
 Analyzed the `top_scorer` and `highscore` columns to find who scored the most cumulative match-high-scores across the season.
 
-**5. Player of the Match**
+**5. Player of the Match**:
 Counted up who received the most POTM awards.
 
-**6. Bowling Performance**
+**6. Bowling Performance**:
 Looked at the best bowler in each match, their figures, and how often they showed up as the standout performer.
 
-**7. Venue Analysis**
+**7. Venue Analysis**:
 Checked which stadiums hosted the most matches.
 
-**8. Match-Winning Margins**
+**8. Match-Winning Margins**:
 Broke down matches won by runs vs. wickets, and found the biggest winning margins of the season.
 
 ## 📈 Visualizations
